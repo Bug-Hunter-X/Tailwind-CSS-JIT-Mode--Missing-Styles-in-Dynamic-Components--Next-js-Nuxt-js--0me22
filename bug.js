@@ -1,0 +1,1 @@
+This bug occurs when using Tailwind CSS with a framework like Next.js or Nuxt.js.  The issue is that Tailwind's JIT mode might not correctly process CSS classes within dynamically generated components or pages. This can result in classes not being applied or unexpected styling behavior.
